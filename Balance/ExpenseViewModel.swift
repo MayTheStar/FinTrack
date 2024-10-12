@@ -13,15 +13,15 @@ class ExpenseViewModel: ObservableObject {
 
     @Published var expenses: [String: [Expense]] = [
         "Food": [
-//            Expense(name: "Groceries", amount: 50.00, date: Date()),
-//            Expense(name: "Dining Out", amount: 30.00, date: Date())
+            Expense(name: "Groceries", amount: 50.00, date: Date()),
+            Expense(name: "Dining Out", amount: 30.00, date: Date())
         ],
         "Transportation": [
-//            Expense(name: "Bus Ticket", amount: 2.50, date: Date())
+            Expense(name: "Bus Ticket", amount: 2.50, date: Date())
         ],
         "Education": [],
         "Others": [
-//            Expense(name: "Subscription", amount: 10.00, date: Date())
+            Expense(name: "Subscription", amount: 10.00, date: Date())
         ]
     ]
     
