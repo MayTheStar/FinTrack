@@ -17,8 +17,6 @@ The app combines a clean, friendly interface with intelligent features that make
 
 - 🔸 **Personalized Budgeting**: Create budgets based on your income and lifestyle.
 - 🔸 **Expense Tracking**: Categorize and monitor your daily spending.
-- 🔸 **Smart Suggestions**: Get tips to save money without feeling restricted.
-- 🔸 **Daily Summary**: Understand your spending patterns at a glance.
 - 🔸 **Notifications & Alerts**: Stay on top of your finances with timely reminders.
 
 ---
@@ -36,7 +34,7 @@ The app combines a clean, friendly interface with intelligent features that make
 
 ## 📸 Design Preview
 
-![Hi-Fi Design](Hi-Fi%20interfaces.jpg)
+![Hi-Fi Design]([Hi-Fi%20interfaces.jpg](https://github.com/MayTheStar/FinTrack/blob/main/Hi-Fi%20%20interfaces.jpg))
 
 
 ## 📬 Contact me 
