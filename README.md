@@ -34,7 +34,7 @@ The app combines a clean, friendly interface with intelligent features that make
 
 ## 📸 Design Preview
 
-![Hi-Fi Design]([Hi-Fi%20interfaces.jpg](https://github.com/MayTheStar/FinTrack/blob/main/Hi-Fi%20%20interfaces.jpg))
+![Hi-Fi Preview](Hi-Fi%20interfaces.jpg)
 
 
 ## 📬 Contact me 
