@@ -34,7 +34,7 @@ The app combines a clean, friendly interface with intelligent features that make
 
 ## 📸 Design Preview
 
-![Hi-Fi Design](Hi-Fi  interfaces.jpg)
+![Hi-Fi Design](Hi-Fid.jpg)
 
 
 ## 📬 Contact me 
