@@ -41,4 +41,4 @@ The app combines a clean, friendly interface with intelligent features that make
 
  📧 maibadr200@email.com  
 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/may-b-alotaibi-932486325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-))
+)
